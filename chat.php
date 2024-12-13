@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+  <link
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+  rel="stylesheet"
+/>
+
     <!-- Favicon -->
    <link rel="icon" href="FUSAtalk-webp/FUSAtalkC.webp" type="image/x-icon">
     <meta charset="UTF-8" />
@@ -134,8 +139,41 @@ if(isset($_GET['uid'])){
         <?php }?>
 
         <button class="send-btn btn btn-primary" type="button" id="send-btn">
-            Send
-        </button>
+  <i class="fas fa-paper-plane"></i> Send
+</button>
+
+<style>
+  .send-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem; /* Space between the icon and the text */
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  font-weight: bold;
+  text-align: center;
+  border: none;
+  border-radius: 0.0rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.send-btn i {
+  font-size: 1.25rem; /* Adjust icon size */
+}
+
+.btn-primary {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+  transform: translateY(-2px); /* Adds a hover effect */
+}
+
+
+</style>
     </div>
 </div>
 
