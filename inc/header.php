@@ -88,31 +88,31 @@
 /* Animations for background images */
 @keyframes slideShow {
   0% {
-    background-image: url('FUSAtalk-backg/serversides.webp');
+    background-image: url('FUSAtalk-backg/1.webp');
   }
   20% {
-    background-image: url('FUSAtalk-backg/serversides.webp');
+    background-image: url('FUSAtalk-backg/1.webp');
   }
   25% {
-    background-image: url('FUSAtalk-backg/serverside2.1.webp');
+    background-image: url('FUSAtalk-backg/2.webp');
   }
   45% {
-    background-image: url('FUSAtalk-backg/serverside2.1.webp');
+    background-image: url('FUSAtalk-backg/2.webp');
   }
   50% {
-    background-image: url('FUSAtalk-backg/serverside4.3.jpg');
+    background-image: url('FUSAtalk-backg/3.webp');
   }
   70% {
-    background-image: url('FUSAtalk-backg/serverside4.3.jpg');
+    background-image: url('FUSAtalk-backg/3.webp');
   }
   75% {
-    background-image: url('FUSAtalk-backg/serverside5.jpg');
+    background-image: url('FUSAtalk-backg/4.webp');
   }
   95% {
-    background-image: url('FUSAtalk-backg/serverside5.jpg');
+    background-image: url('FUSAtalk-backg/4.webp');
   }
   100% {
-    background-image: url('FUSAtalk-backg/serverside5.jpg');
+    background-image: url('FUSAtalk-backg/1.webp');
   }
 }
 
