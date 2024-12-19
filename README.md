@@ -7,11 +7,15 @@ This system has presented as a demo in front of class during the final exam in t
 FUSAtalk is built using PHP: a fast, reliable messenger designed to bring everyone together.
 
 
-## Developer Team   
-- **Diaz, Jesus D.**  
+## Developer Team  
+- **Bulaclac, Jericho**
+- **Cayaba, Instien**
+- **Coronel, Dave**
+- **Diaz, Jesus**
+- **Palattao, Robert**
 
 
-> **Academic Advisor**: James Bryan Bagunu 
+> **Academic Advisor**: James Bryan Bagunu <br>
 > **Submitted**: December 2024  
 
 ---  
