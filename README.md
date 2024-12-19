@@ -12,6 +12,7 @@ FUSAtalk is built using PHP: a fast, reliable messenger designed to bring everyo
 - **Cayaba, Instien**
 - **Coronel, Dave**
 - **Diaz, Jesus**
+- **Gabriel, Osmond**
 - **Palattao, Robert**
 
 
